@@ -68,8 +68,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
-        "logo_max_width": 120,
+        "logo": "shopify://shop_images/ChatGPT_Image_Apr_28_2025_05_52_27_PM.png",
+        "logo_max_width": 140,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
@@ -83,7 +83,6 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/a-close-up-of-luxury-watch.jpg",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
