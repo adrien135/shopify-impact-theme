@@ -11,30 +11,6 @@
   "type": "header",
   "name": "Header group",
   "sections": {
-    "announcement-bar": {
-      "type": "announcement-bar",
-      "blocks": {
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "REDUCTION -30% EN CE MOMENT",
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "message"
-      ],
-      "settings": {
-        "enable_sticky": false,
-        "text_size": "text-xs",
-        "navigation_mode": "scrolling",
-        "scrolling_speed": 10,
-        "background": "#1a1a1a",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
-    },
     "header": {
       "type": "header",
       "blocks": {
@@ -86,6 +62,30 @@
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
+      }
+    },
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "REDUCTION -30% EN CE MOMENT",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "text_size": "text-xs",
+        "navigation_mode": "scrolling",
+        "scrolling_speed": 10,
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#ffffff"
       }
     }
   },
