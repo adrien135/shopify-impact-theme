@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-04-28_103936.png",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-04-29_174016_1.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -41,8 +41,8 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Time Prestige",
-            "heading_tag": "h0",
+            "title": "Découvre notre collection",
+            "heading_tag": "h2",
             "button_text": "",
             "button_link": "",
             "text_color": "#f2f2f2",
