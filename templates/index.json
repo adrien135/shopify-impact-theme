@@ -77,7 +77,7 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/realistic_watch_3.png",
+            "image": "shopify://shop_images/wrist_large_1.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://products/fashion-design-middle-east-arabic-numerals-large-dial-40mm-diy-plastic-strap-waterproof-quartz-mens-watch-casual-sports",
@@ -90,7 +90,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/upscalemedia-transformed_2__square2048.png",
+            "image": "shopify://shop_images/wrist_processed_2.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://products/plastic-black-red-middle-eastern-arabic-numeral-patterned-quartz-watch-for-mens-waterproof-watch-can-be-brand-customized",
@@ -103,7 +103,7 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/upscalemedia-transformed_3__square2048.png",
+            "image": "shopify://shop_images/wrist_processed_3.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://products/fashion-design-middle-east-arabic-numerals-large-dial-40mm-diy-plastic-strap-waterproof-quartz-mens-watch-casual-sports-5",
@@ -132,9 +132,10 @@
         "1664424046b00c932c-2",
         "1664424046b00c932c-3"
       ],
+      "custom_css": [],
       "settings": {
-        "full_width": false,
-        "block_size": "medium",
+        "full_width": true,
+        "block_size": "small",
         "subheading": "",
         "title": "",
         "content": "",
