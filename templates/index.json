@@ -152,7 +152,7 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": "{{ section.settings.collection.products }}",
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
