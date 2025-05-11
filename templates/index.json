@@ -116,6 +116,7 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/wrist_large_3.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -134,8 +135,8 @@
       ],
       "custom_css": [
         "/* Supprime la hauteur minimale imposée par le preset \"Large\" */:host {min-height: auto !important; padding-bottom: 0 !important; /* retire aussi l'espace bas */}",
-        "/* Réduit éventuellement l'espace interne de chaque bloc */.image-link-block--image {padding-bottom: 0 !important;}",
-        "/* Ajuste la hauteur des vignettes (facultatif) */.image-link-block--image .image-link-block__media {height: 220px !important; /* mets la valeur qui te convient */}"
+        " /* Réduit éventuellement l'espace interne de chaque bloc */.image-link-block--image {padding-bottom: 0 !important;}",
+        " /* Ajuste la hauteur des vignettes (facultatif) */.image-link-block--image .image-link-block__media {height: 220px !important; /* mets la valeur qui te convient */}"
       ],
       "settings": {
         "full_width": true,
