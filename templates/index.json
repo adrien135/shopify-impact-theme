@@ -183,7 +183,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
+        "collection": "roman-collection",
         "products": [],
         "full_width": true,
         "stack_products": true,
