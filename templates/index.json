@@ -292,7 +292,8 @@
         "allow_transparent_header": false,
         "autoplay": false,
         "video_size": "sm",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/snaptik_7500168334143524098.mp3.mov",
+        "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
