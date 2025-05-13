@@ -310,7 +310,7 @@
         "scrolling_speed": 5,
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#1e0941",
         "text_gradient": ""
       }
     },
