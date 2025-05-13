@@ -303,7 +303,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "CODE PROMO TIME-PRESTIGE",
+        "text": "CODE PROMO TIME-PRESTIGE -30 %",
         "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
