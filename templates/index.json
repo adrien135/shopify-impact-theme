@@ -303,11 +303,11 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "CODE PROMO TIME-PRESTIGE -30 %",
+        "text": "CODE PROMO TIMEPRESTIGE -30 %",
         "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "scrolling_speed": 3,
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#1e0941",
