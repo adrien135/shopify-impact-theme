@@ -308,7 +308,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 5,
-        "background": "",
+        "background": "#200e46",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
