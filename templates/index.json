@@ -116,10 +116,10 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/wrist_large_3.png",
+            "image": "shopify://shop_images/S99f786cb6fc745a7b9defb909087a059P_13e00527-5385-44a4-ac20-d3a687b0d3f8.webp",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://products/luxury-brand-gold-steel-strip-womens-watch-ultra-thin-dial-simple-design-pointer-quartz-waterproof-elegant-womens-watch-1",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -571,7 +571,6 @@
       "settings": {
         "full_width": true,
         "image": "shopify://shop_images/S2ea95407565a43fc86fc67227d36edcdn.webp",
-        "mobile_image": "shopify://shop_images/S99f786cb6fc745a7b9defb909087a059P_026a81cd-9325-4971-896a-6b04c31a5d39.webp",
         "title": "",
         "content": "",
         "button_text": "",
