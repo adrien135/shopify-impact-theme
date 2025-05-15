@@ -210,7 +210,9 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "hot-trend-watch-with-simple-large-dial-gold-black-square-quartz-for-women-and-men-steel-strap-waterproof-for-women-and-clock-1"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
