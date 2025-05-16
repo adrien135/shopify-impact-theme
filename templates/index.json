@@ -506,12 +506,20 @@
             "title": "Expédiez-vous à l'étranger ?",
             "content": "<p>Oui, nous livrons partout dans le monde. Des frais de livraison s'appliquent et seront ajoutés au moment du paiement. Nous proposons des réductions et des promotions toute l'année, alors restez connectés pour découvrir des offres exclusives.</p>"
           }
+        },
+        "item_rk4WC4": {
+          "type": "item",
+          "settings": {
+            "title": "Des questions ?",
+            "content": "<p>Vous pouvez nous contacter via notre page de contact ! Nous serons ravis de vous aider.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_rk4WC4"
       ],
       "settings": {
         "full_width": false,
