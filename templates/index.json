@@ -552,8 +552,8 @@
             "logo_width": 100,
             "author": "Youssef Bougahnmi",
             "content": "Elle est incroyable !",
-            "show_rating": false,
-            "rating": 4
+            "show_rating": true,
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
