@@ -94,7 +94,7 @@
           "type": "text",
           "settings": {
             "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p>Chez <strong>Time Prestige</strong>, nous croyons que chaque instant mérite d’être remarquable.</p><p><br/></p><p>Notre mission ? Proposer des montres au design raffiné, alliant précision, élégance et caractère.</p><p><br/></p><p>Inspirée par l’excellence horlogère et les codes du luxe moderne, notre marque célèbre la maîtrise du temps, l’affirmation de soi et l’élégance accessible.</p><p><br/></p><p>Porter <strong>Time Prestige</strong>, ce n’est pas seulement lire l’heure — c’est incarner un style, une vision, une prestance.</p>",
             "enable_follow_on_shop": true
           }
         }
