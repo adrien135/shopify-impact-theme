@@ -205,32 +205,6 @@
         "product_card_text_color": ""
       }
     },
-    "featured_collection_NUAM8k": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "girls-collection",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Girls Collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "impact_text_jUPk6w": {
       "type": "impact-text",
       "blocks": {
@@ -622,7 +596,6 @@
     "image-link-blocks",
     "featured_collection_4DG8rj",
     "featured_collection_LzFUP8",
-    "featured_collection_NUAM8k",
     "impact_text_jUPk6w",
     "video_6gjtAf",
     "scrolling-text",
