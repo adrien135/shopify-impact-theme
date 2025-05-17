@@ -565,11 +565,44 @@
             "show_rating": true,
             "rating": 5
           }
+        },
+        "quote_gKgJ89": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Cadeau pour mon mari : il a adoré ;)",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_cWDfCc": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_yh8Lgp": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
         }
       },
       "block_order": [
         "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "16644243327ba53d2a-1",
+        "quote_gKgJ89",
+        "quote_cWDfCc",
+        "quote_yh8Lgp"
       ],
       "settings": {
         "full_width": true,
