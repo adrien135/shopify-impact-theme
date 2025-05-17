@@ -560,10 +560,10 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
+            "author": "Evane Goyi",
+            "content": "Bon rapport qualité-prix",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
