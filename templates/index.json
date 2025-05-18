@@ -310,17 +310,13 @@
         "scrolling_speed": 3,
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#1e0941",
+        "text_color": "#000000",
         "text_gradient": ""
       }
     },
     "featured_product_NtRpRA": {
       "type": "featured-product",
       "blocks": {
-        "vendor_nwaXbf": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_BWK69z": {
           "type": "title",
           "settings": {
@@ -384,7 +380,6 @@
         }
       },
       "block_order": [
-        "vendor_nwaXbf",
         "title_BWK69z",
         "badges_MBkbVA",
         "price_A6nAt3",
