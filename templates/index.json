@@ -113,19 +113,6 @@
             "overlay_opacity": 0
           }
         },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/wrist_large_2.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://products/fashion-design-middle-east-arabic-numerals-large-dial-40mm-diy-plastic-strap-waterproof-quartz-mens-watch-casual-sports",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "item_JFa7YK": {
           "type": "item",
           "settings": {
@@ -138,14 +125,27 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "1664424046b00c932c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/wrist_large_2.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://products/fashion-design-middle-east-arabic-numerals-large-dial-40mm-diy-plastic-strap-waterproof-quartz-mens-watch-casual-sports",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "1664424046b00c932c-0",
         "item_pX9CRU",
         "1664424046b00c932c-2",
-        "1664424046b00c932c-1",
-        "item_JFa7YK"
+        "item_JFa7YK",
+        "1664424046b00c932c-1"
       ],
       "custom_css": [
         "/* Supprime la hauteur minimale imposée par le preset \"Large\" */:host {min-height: auto !important; padding-bottom: 0 !important; /* retire aussi l'espace bas */}",
