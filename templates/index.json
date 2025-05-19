@@ -87,13 +87,13 @@
             "overlay_opacity": 0
           }
         },
-        "item_pX9CRU": {
+        "item_CqYJGf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_May_19_2025_10_24_25_PM.png",
+            "image": "shopify://shop_images/ChatGPT_Image_May_19_2025_10_41_00_PM.png",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "shopify://products/2024-unique-plastic-strap-design-for-casual-lightweight-sports-waterproof-quartz-watch-for-men-and-women-customized-6",
+            "link_url": "shopify://products/2024-unique-plastic-strap-design-for-casual-lightweight-sports-waterproof-quartz-watch-for-men-and-women-customized-5",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -113,13 +113,13 @@
             "overlay_opacity": 0
           }
         },
-        "item_JFa7YK": {
+        "item_pX9CRU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_May_19_2025_10_25_29_PM.png",
+            "image": "shopify://shop_images/ChatGPT_Image_May_19_2025_10_24_25_PM.png",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "shopify://products/2024-unique-plastic-strap-design-for-casual-lightweight-sports-waterproof-quartz-watch-for-men-and-women-customized-2",
+            "link_url": "shopify://products/2024-unique-plastic-strap-design-for-casual-lightweight-sports-waterproof-quartz-watch-for-men-and-women-customized-6",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -138,14 +138,28 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "item_JFa7YK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_May_19_2025_10_25_29_PM.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://products/2024-unique-plastic-strap-design-for-casual-lightweight-sports-waterproof-quartz-watch-for-men-and-women-customized-2",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "1664424046b00c932c-0",
-        "item_pX9CRU",
+        "item_CqYJGf",
         "1664424046b00c932c-2",
-        "item_JFa7YK",
-        "1664424046b00c932c-1"
+        "item_pX9CRU",
+        "1664424046b00c932c-1",
+        "item_JFa7YK"
       ],
       "custom_css": [
         "/* Supprime la hauteur minimale imposée par le preset \"Large\" */:host {min-height: auto !important; padding-bottom: 0 !important; /* retire aussi l'espace bas */}",
